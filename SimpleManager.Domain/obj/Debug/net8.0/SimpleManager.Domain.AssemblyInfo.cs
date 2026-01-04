@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SimpleManager.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+76ea13fce28388b88806811d70fddf8fff03d090")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+818483cc89b0b696e84add11cb7f1aabe2f8415a")]
 [assembly: System.Reflection.AssemblyProductAttribute("SimpleManager.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SimpleManager.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
