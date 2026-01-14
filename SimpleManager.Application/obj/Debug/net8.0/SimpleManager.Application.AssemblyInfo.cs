@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SimpleManager.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+203651dd4c546e73ee82f55d8b2ee2f4ccc9431c")]
 [assembly: System.Reflection.AssemblyProductAttribute("SimpleManager.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SimpleManager.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

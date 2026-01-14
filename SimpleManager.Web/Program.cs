@@ -1,4 +1,4 @@
-namespace SimpleManager.Web
+ namespace SimpleManager.Web
 {
     public class Program
     {
